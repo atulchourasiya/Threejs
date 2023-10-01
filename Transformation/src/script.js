@@ -90,7 +90,7 @@ cube3.position.x = -1
 group.add(cube3)
 
 //Whole Group Shift Upward
-group.position.y = 1
+group.position.y = 0
 
 //Renderer
 const renderer = new THREE.WebGLRenderer({
